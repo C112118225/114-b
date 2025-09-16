@@ -10,3 +10,5 @@
 
 [Google](http://www.google.com)
 ![nkust](nkust.png)
+
+>有捨才有得
