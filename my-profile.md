@@ -9,7 +9,8 @@
   
 座右銘： *有捨才有得*
 
-[nkust]([http://www.google.com](https://www.nkust.edu.tw/))
+[nkust](https://www.nkust.edu.tw/)
+
 ![風景](view.webp)
 
 
