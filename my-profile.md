@@ -6,10 +6,12 @@
 * java
 * **python**
 * ppt
+  
 座右銘： *有捨才有得*
 
-[Google](http://www.google.com)
+[nkust]([http://www.google.com](https://www.nkust.edu.tw/))
 ![風景](view.webp)
+
 
 >任何事越簡單越好，但是太過簡單就無趣。
 
