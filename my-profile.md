@@ -11,4 +11,6 @@
 [Google](http://www.google.com)
 ![nkust](nkust.png)
 
->有捨才有得
+>喜歡的名言或人生哲學
+
+```喜歡的名言或人生哲學```
